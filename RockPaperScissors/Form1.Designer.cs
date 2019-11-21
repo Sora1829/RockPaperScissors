@@ -36,7 +36,7 @@
             // 
             // Rock
             // 
-            this.Rock.Location = new System.Drawing.Point(39, 144);
+            this.Rock.Location = new System.Drawing.Point(44, 144);
             this.Rock.Name = "Rock";
             this.Rock.Size = new System.Drawing.Size(186, 118);
             this.Rock.TabIndex = 0;
@@ -78,7 +78,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(781, 278);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.Scissors);
             this.Controls.Add(this.Paper);
